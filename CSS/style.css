@@ -892,6 +892,10 @@ img{
     .nav__list{
         display: flex;
         column-gap: 1.5rem;
+       
+    }
+    .nav__link{
+        color: var(--title-color);
         font-weight: 400;
     }
     .nav__menu{
